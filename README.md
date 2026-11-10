@@ -9,7 +9,7 @@ with just enough frontend to bring ideas to life.
 
 ## 🧠 About Me
 
-🎓 Final-year **Computer Science** student  
+🎓 **Computer Science Graduate**
 💻 Passionate about **Web & Backend Development**  
 🛠️ I learn best by **building real-world projects**  
 🤝 Open to **internships, entry-level roles, and collaborations**
@@ -60,7 +60,7 @@ with just enough frontend to bring ideas to life.
 
 - 🐙 GitHub: https://github.com/JitendriBurle  
 - 💼 LinkedIn: https://www.linkedin.com/in/burle-jitendri-9b6453297/  
-- ✉️ Email: ji28tu@gmail.com  
+- ✉️ Email: bjitendri28112004@gmail.com  
 
 ---
 
